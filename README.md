@@ -6,7 +6,7 @@ L'idée est née d'un constat simple : mes études en traduction me donnaient la
 
 > Toutes les analyses statistiques (K-Means, OLS, Shannon, Pearson, Haversine, Kamada-Kawai) sont implémentées **from scratch**, sans `scikit-learn`, `scipy` ni `networkx`. Uniquement le module `math` de Python.
 >
-> Accéder au web APP en ligne : https://voxorbis-3t5acixacvwehfnyvddq59.streamlit.app
+Accéder à VoxOrbis en ligne : https://voxorbis-3t5acixacvwehfnyvddq59.streamlit.app
 
 ---
 
